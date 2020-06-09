@@ -1,0 +1,2 @@
+splitting of this dataset will be performed during program executions
+using train_test_split() from sklearn.cross_validation
